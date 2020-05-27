@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">AplicacionCamara</string>
+    <string name="buttoncamara"> Abrir Cámara</string>
+    <string name="buttonCodificar"> Codificar</string>
+    <string name="buttonDecodificar">Decodificar</string>
+    <string name="texto_codificado_decodificado">Texto codificado/decodificado</string>
 </resources>
